@@ -1,0 +1,42 @@
+body {
+  margin: 0px;
+}
+
+ul {
+  list-style-type: none;
+  text-align: center;
+  width: 100%;
+}
+li {
+  display: inline-block;
+  margin: 0px 15px;
+}
+a {
+  color: #fff;
+  text-decoration: none;
+}
+.navbar-1 {
+  background-color: rgb(0, 204, 255);
+  padding: 10px 0px;
+}
+.nav {
+  display: inline-block;
+}
+.navbar-2 {
+  background-color: #3b3d40;
+  padding: 10px 0px;
+}
+.Logo {
+  width: 100px;
+  height: 30px;
+  display: inline-block;
+  margin-left: 10px;
+}
+.navbar-3 {
+  background-color: #3b3d40;
+  padding: 10px 0px;
+}
+h2 {
+  display: inline-block;
+  color: #fff;
+}
